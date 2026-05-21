@@ -1,0 +1,6 @@
+{
+  "name": "exec-standup-dashboard",
+  "version": "1.0.0",
+  "description": "Executive IT Standup Dashboard – Thana Digital Life",
+  "engines": { "node": ">=18" }
+}

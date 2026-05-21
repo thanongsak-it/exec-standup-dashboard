@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "src": "/api/notion",  "dest": "/api/notion.js"  },
+    { "src": "/api/summary", "dest": "/api/summary.js" },
+    { "src": "/(.*)",        "dest": "/public/index.html" }
+  ]
+}
